@@ -1,3 +1,8 @@
+# 写在最前面
+
+本人换台式了，这个项目有点问题，不准备维护了
+
+
 # NVIDIA Broadcast 自动启动
 
 开机 5 秒后检查 NVIDIA 独立显卡，并根据状态自动处理 NVIDIA Broadcast。
